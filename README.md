@@ -1,5 +1,5 @@
 # 💫 About Me:
-Electrical Engineer and Web Developer, trained to design and apply solutions to engineering problems faced in the exercise of my profession. I possess a desire to scrutinize, through experience, the areas of knowledge in which I have been preparing myself throughout my personal and academic training.
+Electrical Engineer and Python Developer, trained to design and apply solutions to engineering problems faced in the exercise of my profession. I possess a desire to scrutinize, through experience, the areas of knowledge in which I have been preparing myself throughout my personal and academic training.
 
 
 ## 🌐 Socials:
