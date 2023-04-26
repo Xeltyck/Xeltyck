@@ -1,6 +1,9 @@
 # 💫 About Me:
-Electrical Engineer and Python Developer, trained to design and apply solutions to engineering problems faced in the exercise of my profession. I possess a desire to scrutinize, through experience, the areas of knowledge in which I have been preparing myself throughout my personal and academic training.
+Electrical Engineer and Python Developer with experience in web application development. I love working with Python because of its flexibility and ability to solve complex problems efficiently.  I have experience in web development using frameworks such as Flask and Django, where I have worked on web application development projects. I also have skills in languages and frameworks focused on FrontEnd, such as HTML, CSS, JavaScript and Bootstrap. Likewise, I have knowledge of version control using GIT. 
 
+I have a strong commitment to quality work and collaborative teamwork. I am a detailed and careful person in every task I undertake, which allows me to identify and solve problems effectively.
+
+I am always looking to learn more and continue to improve my skills. I am currently working on improving my skills in Docker and Azure. I would love to continue to grow my career as a Python developer and help develop creative solutions to challenging problems. 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/cdfd98/) 
