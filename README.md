@@ -1,5 +1,5 @@
 # 💫 About Me:
-Electrical Engineer and Python Developer with experience in web application development. I love working with Python because of its flexibility and ability to solve complex problems efficiently.  I have experience in web development using frameworks such as Flask and Django, where I have worked on web application development projects. I also have skills in languages and frameworks focused on FrontEnd, such as HTML, CSS, JavaScript and Bootstrap. Likewise, I have knowledge of version control using GIT. 
+Electrical Engineer abd data analyst with Python Developer with experience in web application development. I love working with Python because of its flexibility and ability to solve complex problems efficiently.  I have experience in web development using frameworks such as Flask and Django, where I have worked on web application development projects. I also have skills in languages and frameworks focused on FrontEnd, such as HTML, CSS, JavaScript and Bootstrap. Likewise, I have knowledge of version control using GIT. 
 
 I have a strong commitment to quality work and collaborative teamwork. I am a detailed and careful person in every task I undertake, which allows me to identify and solve problems effectively.
 
